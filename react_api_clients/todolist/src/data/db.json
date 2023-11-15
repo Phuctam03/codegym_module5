@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "quét nhà"
+    },
+    {
+      "id": 2,
+      "name": "rửa chén"
+    },
+    {
+      "id": 3,
+      "name": "nấu ăn"
+    },
+    {
+      "id": 4,
+      "name": "lau nhà"
+    },
+    {
+      "id": 5,
+      "name": "làm việc"
+    },
+    {
+      "id": 6,
+      "name": "rửa bếp"
+    }
+  ]
+}
